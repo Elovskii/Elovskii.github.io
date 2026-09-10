@@ -1,0 +1,15 @@
+# Evgenii Elovskii
+
+> Independent iOS developer. One shipped app: Meteosense, a biometeorology app that scores how
+> hard today's environment is pushing on a person and learns their individual sensitivity.
+
+## Projects
+
+- [Meteosense](https://elovskii.github.io/meteosense_app/): free iOS app that reads barometric
+  pressure, temperature, humidity, wind, geomagnetic storms, solar flares and the Moon phase into
+  one daily environmental load score. Full details in
+  [its llms.txt](https://elovskii.github.io/meteosense_app/llms.txt).
+
+## Contact
+
+- everyoneneedsthebreatheeasy@gmail.com
